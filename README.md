@@ -1,6 +1,6 @@
 # Omegle-Info-Grabber
 
-This Js Script fetch every connected omegle user information like IP Address, Location, Weather etc in real time Within any browser window
+This Js script fetch every connected omegle user information like ip address, location, Weather etc in real time Within any browser's console window
 
 # FEATURES: 
 
