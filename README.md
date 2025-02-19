@@ -2,6 +2,9 @@
 
 This Js script fetch connected omegle user information like ip address,location,weather etc in real time within any browser's console window
 
+![OIG](https://github.com/user-attachments/assets/62e074aa-1fdc-4c34-9c4f-7dc7f083ab09)
+
+
 # FEATURES: 
 
 -IP Address
