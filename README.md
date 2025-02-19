@@ -2,12 +2,7 @@
 
 This Js Script fetch every connected omegle user information like IP Address, Location, Weather etc in Real Time Within Any Browser Window
 
- _____          _                       
-|  ___|__  __ _| |_ _   _ _ __ ___  ___ 
-| |_ / _ \/ _` | __| | | | '__/ _ \/ __|
-|  _|  __/ (_| | |_| |_| | | |  __/\__ \
-|_|  \___|\__,_|\__|\__,_|_|  \___||___/
-
+# FEATURES: 
 
 -IP Address
 -Internet Service provider
@@ -20,14 +15,8 @@ This Js Script fetch every connected omegle user information like IP Address, Lo
 -Temperature
 
 
-
-  _   _                 _                         
- | | | | _____      __ | |_ ___    _   _ ___  ___ 
- | |_| |/ _ \ \ /\ / / | __/ _ \  | | | / __|/ _ \
- |  _  | (_) \ V  V /  | || (_) | | |_| \__ \  __/
- |_| |_|\___/ \_/\_/    \__\___/   \__,_|___/\___|
+# How to Use:
  
-   
 1. Signup on https://ipgeolocation.io  and get your location API Key  Example: d8cf43a792b1da3b20147058d3a40822
 
 2. Signup on https://home.openweathermap.org and get your weather API Key  Example: 17b9d17894c20157058d3c508a876016
@@ -46,11 +35,7 @@ This Js Script fetch every connected omegle user information like IP Address, Lo
 
 
 
- _____ ___  __ _____ ___ __     __  _ _____ ___  __  
-|_   _| __/' _/_   _| __| _\  /' _/| |_   _| __/' _/ 
-  | | | _|`._`. | | | _|| v | `._`.| | | | | _|`._`. 
-  |_| |___|___/ |_| |___|__/  |___/|_| |_| |___|___/ 
-
+# Tested:  
 
 https://ome.tv/
 
