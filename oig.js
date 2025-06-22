@@ -32,7 +32,7 @@ window.RTCPeerConnection = function (...args) {
     return pc;
 };
 
-// Use the API to be able to locate the person thanks to an IP :)
+
 let getLocation = async (ip) => {
     let url = `https://api.ipgeolocation.io/ipgeo?apiKey=${keyapi}&ip=${ip}`;
     let output = "";
@@ -61,7 +61,7 @@ Lat / Long: (${json.latitude}, ${json.longitude})
     );
 };
 
-//Weather API added to get the weather information of the user which will give the temperature in °C of a particular city.
+
 let getWeather = async (city) => {
     let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiid}&units=metric`;
     let weather = {};
