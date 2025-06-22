@@ -29,9 +29,11 @@ This Js script fetch connected omegle user information like ip address,location,
 # How to Use:
  
 1. Signup on https://ipgeolocation.io  and get your location API Key
+   
    Example: d8cf43a792b1da3b20147058d3a40822
 
 2. Signup on https://home.openweathermap.org and get your weather API Key
+   
    Example: 17b9d17894c20157058d3c508a876016
 
 3. Enter your Location API Key in "Your_Location_API_Key" Line
